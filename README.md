@@ -5,6 +5,15 @@ Aggregate sensors ping metrics and query in real time
 ```
 The separate README.md files are present in each language implementation folder of the project.
 ```
+* For understanding the algorithm and the approach, please refer to the Pings_Processor_Architecture_Document file in the generic-ping-aggregator folder.
+
+* For running the project, please refer to the README.md file in each language implementation folder.
+
+* For API documentation, please refer to the below section.
+
+* For testing the API, please refer to the below section.
+
+*  For code walkthrough, please refer to the Pings_Processor_Architecture_Document file in the generic-ping-aggregator folder.
 
 # API DOCUMENTATION:
 
